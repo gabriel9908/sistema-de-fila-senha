@@ -1,6 +1,9 @@
 # Sistema de Gerenciamento de Filas de Banco
 
-![Queue Management System](https://your_image_url_here)
+![Queue Management System](https://github.com/gabriel9908/sistema-de-fila-senha/blob/main/image1.png)
+![Queue Management System](https://github.com/gabriel9908/sistema-de-fila-senha/blob/main/imagem3.png)
+![Queue Management System](https://github.com/gabriel9908/sistema-de-fila-senha/blob/main/image2.png)
+
 
 ## Visão Geral
 
